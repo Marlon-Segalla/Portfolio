@@ -1,14 +1,11 @@
-import { useState } from 'react'
-
 import './App.css'
 
 function App() {
   return (
-
-      <div>
+    <div>
       <h1>Marlon Segalla Filho</h1>
-      <h2>  Desenvolevdor de Software</h2>
-      </div>
+      <h2>Desenvolvedor de Software</h2>
+    </div>
   )
 }
 
